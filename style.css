@@ -33,7 +33,9 @@ h2
 .illustrate
 {
     color: #20C20E;
-    float: left;
+    width: 100%;
+    height: 30px;
+    text-align: left;
 }
 
 .box
@@ -198,4 +200,72 @@ h2
     height: 120px;
     float: right;
     margin-top: 10px;
+}
+
+.pass_display_key
+{
+    display: inline-block !important;
+    color: #20C20E;
+}
+
+.pass_display
+{
+    display: inline-block !important;
+    color: #20C20E;
+    width: 75px;
+    margin-left: 15px;
+    margin-right: 15px;
+    height: 125px;
+}
+
+
+.keyslot
+{
+    float: right;
+
+}
+
+#key
+{
+    float: left;
+    margin-top: 60px;
+}
+
+.slot
+{
+    height: 50px;
+}
+
+#passbox
+{
+    margin-top: 170px;
+    color: #20C20E;
+    margin-right: 135px;
+}
+
+#password_box
+{   
+    padding-right: 25px;
+    height: 50px; 
+    display: inline;
+
+}
+
+.passlot
+{
+    display: inline;
+}
+.crtpasslot
+{
+    display: inline-block;
+    width: 25px;
+    height: 25px;
+    border: solid 2px #20C20E;
+}
+
+#col1
+{
+    display: inline-block;
+    color: #20C20E;
+    margin: 20px;
 }
