@@ -115,3 +115,87 @@ h2
     line-height: 100px;
     
 }
+
+.computer_icon
+{
+    color: green;
+    margin-top: 7px;
+}
+
+.computer_icon3
+{
+    color: red;
+}
+
+.computer_icon_align
+{
+    border: solid 2px #20C20E;
+    height: 100%;
+    width: 40%;
+}
+
+.computer_icon_text
+{
+    color: #20C20E;
+    margin-top: 17px;
+    border: solid 1px #20C20E;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.arp_btn
+{
+    background-color: #20C20E;
+    color: black;
+    border-radius: 2px;
+    border: solid 2px #20C20E;
+    margin-top: 18px;
+}
+
+.card_box_height
+{
+    height: 100%;
+}
+
+#box1
+{
+     display: inline-block;
+     float: left;
+}
+
+#box2 
+{
+    display: inline-block;
+    border: solid 2px #20C20E;
+    width: 55%;
+    height: 120px;
+    float: right;
+}
+
+.computer_icon2
+{
+    float: left;
+    margin-left: 7px;
+    margin-top: 15px;
+}
+
+.computer_icon_text2
+{
+    color: #20C20E;   
+    margin-top: 20px;
+}
+
+.computer_icon_text3
+{
+    color: red;
+}
+
+#box3
+{
+    display: inline-block;
+    border: solid 2px red;
+    width: 55%;
+    height: 120px;
+    float: right;
+    margin-top: 10px;
+}
